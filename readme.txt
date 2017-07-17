@@ -1,4 +1,8 @@
-Git is a distributed version control system.
+Git is a distributed version control syste
 
 hhh
 GitZZ2ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ22ZZ
+=======
+GitZZ2
+创建新的分支
+ZZ22ZZ22ZZ2
